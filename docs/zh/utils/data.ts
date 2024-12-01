@@ -12,7 +12,7 @@ export const NAV_DATA: NavData[] = [
           type: 'info',
         },
         desc: '适合底层系统开发',
-        link: 'https://weiweixu.cn/c/'
+        link: 'https://c.weiweixu.cn/'
       },
       {
         icon: '/java/logo.svg',
@@ -22,7 +22,7 @@ export const NAV_DATA: NavData[] = [
           type: 'tip',
         },
         desc: '适合企业级应用开发',
-        link: 'https://weiweixu.cn/java/'
+        link: 'https://java.weiweixu.cn/'
       },
     ]
   }
